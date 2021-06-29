@@ -21,6 +21,6 @@ def restaurants():
     return resp
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run
 
         
